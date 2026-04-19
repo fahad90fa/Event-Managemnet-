@@ -661,3 +661,4 @@
 - [2026-04-18 15:46:28] bug fixed
 - [2026-04-19 13:54:10] improved security
 - [2026-04-19 13:54:11] code cleanup
+- [2026-04-19 13:54:11] documentation update
